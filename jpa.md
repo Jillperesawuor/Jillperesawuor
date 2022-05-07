@@ -2,7 +2,7 @@
 - 👀 I’m interested in softwear stuff
 - 🌱 I’m currently learning softwear engineering
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me ...
+- 📫 How to reach me through jillperezawuor@gmail.com
 
 <!---
 Jillperesawuor/Jillperesawuor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
